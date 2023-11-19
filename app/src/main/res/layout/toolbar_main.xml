@@ -25,7 +25,7 @@
             android:layout_marginLeft="55dp"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text=" Halo,\n Kenza Vianda Dwiputra"
+            android:text=" Halo,\n Muhammad Irsyad Rolandi"
             android:textColor="@android:color/white"
             android:textSize="16sp" />
 
